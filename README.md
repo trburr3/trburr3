@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on: AWS Certification
 - 🌱 I’m currently learning more about: generative AI and Machine Learning
-- 💬 Languages/Technologies: Python, JavaScript, TypeScript, AWS, Docker, Git, React, Redux, Flask, SQLAlchemy, HTML, CSS, and more !
+- 💬 Languages/Technologies: Python, JavaScript, TypeScript, AWS, Docker, Git, React, Redux, Flask, SQLAlchemy,PostgresSQL, Postman, HTML, CSS, and more !
 - 📫 How to reach me: Connect with me on LinkedIn ! 
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I read almost exclusively fantasy novels
